@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/Emem5.jpg'); /* Change to the URL/path of Emem's image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    color: #000000;
+}
+
+.button {
+    display: inline-block;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #555;
+}
