@@ -7,10 +7,10 @@ body {
 
 header {
     background-color: #000000;
-    background-image: url(images/Emem3.jpg);
-    background-position: 700px;
-    background-position-y: 900px;
-    color: #000000;
+    background-image: url(images/Goodness4.jpeg);
+    background-position: -200px;
+    background-position-y: -500px;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }

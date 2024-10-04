@@ -8,8 +8,10 @@ body {
 
 header {
     /* background-color: black; */
-    background-image: url(images/Emem2.jpg);
-    color: #fff;
+    background-image: url(images/Goodness.jpeg);
+    background-position: -250px;
+    height: 100px;
+    color: #000000;
     padding: 20px;
     text-align: center;
 }
@@ -75,3 +77,5 @@ header {
 .button:hover {
     background-color: #555;
 }
+  
+  

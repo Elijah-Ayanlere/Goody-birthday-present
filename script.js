@@ -1,4 +1,4 @@
-const greetingText = "THE DAY!";
+const greetingText = "TO A WONDERFUL FRIEND!";
 const speed = 100; // Typing speed in milliseconds
 let index = 0;
 
